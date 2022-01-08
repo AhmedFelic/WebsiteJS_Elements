@@ -1,0 +1,4 @@
+var x = 3333 (var - varijabla, x - naziv varijable, = - samo jedan znak jednakosti 3333 - vrijednost varijable, i uvijek se dodaje ;)
+var g = "aaaa";(var - varijabla, g - naziv, ... "aaa" - string koji se obavezno pise pod navodnike kako bi se mogao ispisati u pregledniku)
+bulient: tacno ili netacno (true ili false), koriste se u while loopovima. 
+null : kontejner koji prazan, tj ceka da se popuni sa nekom vrijedoscu ( razlikuje se od 0 po tome sto 0 ima svoju vrijednost)
