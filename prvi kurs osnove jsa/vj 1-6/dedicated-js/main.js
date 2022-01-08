@@ -1,1 +1,0 @@
-alert("ovo je popup iz eksternog fajla");
