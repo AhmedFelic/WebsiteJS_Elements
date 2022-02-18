@@ -60,22 +60,27 @@ main {
 .dugme {
   width: 50px;
   height: 20px;
-  background-color: white;
+
   outline: none;
-  border-color: white;
 }
 .gl {
   margin-top: -50%;
 }
-.aside_left {
+/*.aside_left {
   background-color: gray;
   float: left;
   width: 5px;
-  height: 100vh;
+  height: 70%;
+  margin-top: 10%;
 }
 .aside_right {
   background-color: gray;
   float: right;
   width: 5px;
-  height: 100vh;
+  height: 70%;
+  margin-top: 10%;
+}*/
+.samow {
+  border: 1px solid black;
+  margin-top: 2%;
 }
