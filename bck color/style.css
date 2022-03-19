@@ -1,0 +1,209 @@
+<<<<<<< HEAD
+* {
+  margin: 0;
+  padding: 0;
+}
+.color_box {
+  border: 1px solid black;
+  height: 70vh;
+  width: 50%;
+  margin: 5% auto 5% auto;
+}
+input {
+  height: 25px;
+}
+
+.centar {
+  width: 50%;
+  margin: 23% auto 50% auto;
+}
+.txt {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.txt1 {
+  margin-top: 15px;
+}
+.button1 {
+  cursor: pointer;
+  outline: 0;
+  display: inline-block;
+  font-weight: 400;
+
+  text-align: center;
+  background-color: white;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  color: #0d6efd;
+  border-color: #0d6efd;
+}
+.button1:hover {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+/*Idk why i made this responsive.. bored i guess*/
+@media (max-width: 1245px) {
+  .color_box {
+    width: 60%;
+  }
+}
+@media (max-width: 1035px) {
+  .color_box {
+    width: 50%;
+  }
+  .button1 {
+    margin-top: 10px;
+  }
+  input {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 800px) {
+  .color_box {
+    width: 75%;
+  }
+  .button3 {
+  }
+}
+@media (max-width: 600px) {
+  .centar {
+    margin-left: 30%;
+  }
+  .color_box {
+    width: 75%;
+  }
+}
+@media (max-width: 500px) {
+  .centar {
+    margin-left: 25%;
+  }
+  button {
+    display: block;
+    width: 70px;
+  }
+  .color_box {
+    width: 75%;
+  }
+  @media (max-width: 400px) {
+    input {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-bottom: 10px;
+    }
+    .centar {
+      margin-left: 17%;
+    }
+  }
+}
+=======
+* {
+  margin: 0;
+  padding: 0;
+}
+.color_box {
+  border: 1px solid black;
+  height: 70vh;
+  width: 50%;
+  margin: 5% auto 5% auto;
+}
+input {
+  height: 25px;
+}
+
+.centar {
+  width: 50%;
+  margin: 23% auto 50% auto;
+}
+.txt {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.txt1 {
+  margin-top: 15px;
+}
+.button1 {
+  cursor: pointer;
+  outline: 0;
+  display: inline-block;
+  font-weight: 400;
+
+  text-align: center;
+  background-color: white;
+  border: 1px solid transparent;
+  padding: 6px 12px;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  color: #0d6efd;
+  border-color: #0d6efd;
+}
+.button1:hover {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+/*Idk why i made this responsive.. bored i guess*/
+@media (max-width: 1245px) {
+  .color_box {
+    width: 60%;
+  }
+}
+@media (max-width: 1035px) {
+  .color_box {
+    width: 50%;
+  }
+  .button1 {
+    margin-top: 10px;
+  }
+  input {
+    margin-top: 20px;
+  }
+}
+@media (max-width: 800px) {
+  .color_box {
+    width: 75%;
+  }
+  .button3 {
+  }
+}
+@media (max-width: 600px) {
+  .centar {
+    margin-left: 30%;
+  }
+  .color_box {
+    width: 75%;
+  }
+}
+@media (max-width: 500px) {
+  .centar {
+    margin-left: 25%;
+  }
+  button {
+    display: block;
+    width: 70px;
+  }
+  .color_box {
+    width: 75%;
+  }
+  @media (max-width: 400px) {
+    input {
+      margin-bottom: 10px;
+    }
+    button {
+      margin-bottom: 10px;
+    }
+    .centar {
+      margin-left: 17%;
+    }
+  }
+}
+>>>>>>> 66c60235b2186f8aeff6c94706cf39f3e5e9ee2f
