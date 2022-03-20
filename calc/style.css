@@ -1,0 +1,31 @@
+.container {
+  width: 400px;
+  margin: 10vh auto 0 auto;
+}
+#display {
+  text-align: right;
+  height: 70px;
+  line-height: 70px;
+  padding: 16px 8px;
+  font-size: 25px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.button {
+  line-height: 70px;
+  text-align: center;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.button:hover {
+  background-color: aqua;
+  cursor: pointer;
+}
+#equal {
+  background-color: rgb(142, 201, 253);
+}
+#equal:hover {
+  background-color: aqua;
+}
