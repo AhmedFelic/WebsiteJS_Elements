@@ -1,3 +1,4 @@
+//not finished, the red X button isnt working yet
 class Book {
     constructor(title, author, isbn) {
         this.title = title;
